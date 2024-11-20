@@ -1,4 +1,4 @@
-## Exemplo de Integração Contínua
+## Exemplo de Integração Contínua (2024)
 
 - Este repositório demonstra o uso básico de IC no GitHub.
 
